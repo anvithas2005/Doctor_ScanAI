@@ -1,6 +1,6 @@
 # Doctor_ScanAI
 
-MediScanAI is an AI-powered medical report analysis tool. It uses specialist agents (Cardiologist, Psychologist, Pulmonologist) and a multidisciplinary team to analyze patient reports and provide possible diagnoses and recommendations.
+An AI-powered medical report analysis tool. It uses specialist agents (Cardiologist, Psychologist, Pulmonologist) and a multidisciplinary team to analyze patient reports and provide possible diagnoses and recommendations.
 
 ## Features
 
